@@ -7,7 +7,7 @@ description:Curated wishlist focusing on endgame content,including:
 
 
 // Doom of Chelchis (pve)
-//notes: volatile primary tags:s-tier,pve
+//notes: Great Volatile workhorse scout, especially with Gyrfalcon. Explosive Rounds and One for All have great synergy. tags:s-tier,pve
 dimwishlist:item=1937552980&perks=1840239774,3230963543,3038247973,4049631843
 dimwishlist:item=1937552980&perks=1840239774,3230963543,3038247973,859780267
 dimwishlist:item=1937552980&perks=1840239774,3230963543,64866129,4049631843
@@ -19,7 +19,7 @@ dimwishlist:item=1937552980&perks=839105230,3230963543,64866129,859780267
 
 
 // IKELOS_SMG_v1.0.3 (pve)
-//notes: tags:s-tier,pve
+//notes: Workhorse Arc SMG for your Arc 3.0 builds. tags:s-tier,pve
 dimwishlist:item=2149683300&perks=1840239774,3230963543,4071163871,3708227201
 dimwishlist:item=2149683300&perks=1840239774,3230963543,4071163871,781192741
 dimwishlist:item=2149683300&perks=1840239774,3230963543,494941759,3708227201
@@ -39,7 +39,7 @@ dimwishlist:item=2149683300&perks=839105230,1140096971,494941759,781192741
 
 
 // CALUS Mini-Tool (pve)
-//notes: tags:s-tier,pve
+//notes: Workhorse Solar SMG for your Solar 3.0 builds. Great for extending Restoration and Radiant. tags:s-tier,pve
 dimwishlist:item=2490988246&perks=1840239774,3230963543,855168139,781192741
 dimwishlist:item=2490988246&perks=839105230,3230963543,855168139,781192741
 dimwishlist:item=2490988246&perks=1840239774,3230963543,494941759,781192741
@@ -51,7 +51,7 @@ dimwishlist:item=2490988246&perks=839105230,3230963543,4071163871,3708227201
 
 
 // The Title (pve)
-//notes: volatile primary tags:s-tier,pve
+//notes: Workhorse Void SMG for your Void 3.0 builds, exceptional with Controlled Demolition on Titan, or Gyrfalcon on Hunter. tags:s-tier,pve
 dimwishlist:item=294129361&perks=1840239774,3230963543,1583705720,4049631843
 dimwishlist:item=294129361&perks=1840239774,1561002382,1583705720,4049631843
 dimwishlist:item=294129361&perks=839105230,3230963543,1583705720,4049631843
@@ -59,156 +59,188 @@ dimwishlist:item=294129361&perks=839105230,1561002382,1583705720,4049631843
 
 
 // Techeun Force
-//notes: non-crit tags:s-tier,pve
+//notes: Great pick for non-crit damage (Wyverns, Primarily shielded majors, etc.). Rewind Rounds on a fusion allows this to be fired almost indefinitely without reloading. tags:s-tier,pve
 dimwishlist:item=3591141932&perks=839105230,689005463,1563455254,2037312142
 
 
 // Forbearance
-//notes: add. clear tags:s-tier,pve
+//notes: One of the best add. clear specials in the game. Ambitious Assassin on a wave frame Grenade Launcher is great, and Chain Reaction clears rooms. tags:s-tier,pve
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
 
 
 // Heritage
-//notes: dps,swapping tags:s-tier,pve
+//notes: Made for double-slug damage. Also great for killing the occasional healthy target with recombination. tags:s-tier,pve
 dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
 
 
 // Nessa's Oblation
-//notes: dps,swapping tags:s-tier,pve
+//notes: Made for double-slug damage. tags:s-tier,pve
 dimwishlist:item=135029084&perks=1840239774,791862061,461595545,3007133316
 
 
 // Retraced Path
-//notes: double special tags:s-tier,pve
+//notes: Great pick for double special Solar 3.0 builds. tags:s-tier,pve
 dimwishlist:item=548958835&perks=1840239774,2749775325,4245865861,859780267
 
 
 // Hollow Denial
-//notes: double special,volatile tags:s-tier,pve
+//notes: Great pick for double special Void 3.0 builds. tags:s-tier,pve
 dimwishlist:item=2323544076&perks=1840239774,2749775325,3442762221,2896748467
 
 
 // Cataclysmic
-//notes: sustain, ammo econ. tags:s-tier,pve
+//notes: Outdated today but still does great total damage with Fourth Time's the Charm, with the benefit of having an easier to execute 100% crit ratio than Retrofit. tags:s-tier,pve
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
 
 
 // A Fine Memorial (pve)
-//notes: add. clear tags:s-tier,pve
+//notes: In my opinion this is the best arc MG in the game for add. clear. Subsistence + One for All gives Machine Guns great damage and mag uptime. tags:s-tier,pve
 dimwishlist:item=3325778512&perks=839105230,1561002382,1820235745,4049631843
 dimwishlist:item=3325778512&perks=839105230,2420895100,1820235745,4049631843
 
 
 // Unwavering Duty (Adept)
-//notes: add. clear tags:s-tier,pve
+//notes: Not as good as a One for All Machine Gun in my opinion, but still excellent. Great for extending Restoration and Radiant. tags:a-tier,pve
 dimwishlist:item=3444632029&perks=839105230,1561002382,1820235745,557221067
 dimwishlist:item=3444632029&perks=839105230,2420895100,1820235745,557221067
 
 
 // Unwavering Duty
-//notes: add. clear tags:s-tier,pve
+//notes: Not as good as a One for All Machine Gun in my opinion, but still excellent. Great for extending Restoration and Radiant. tags:s-tier,pve
 dimwishlist:item=906840740&perks=839105230,1561002382,1820235745,557221067,2988596335
 dimwishlist:item=906840740&perks=839105230,2420895100,1820235745,557221067,2988596335
 
 
 // Corrective Measure (Timelost) (pve)
-//notes: add. clear,volatile tags:s-tier,pve
+//notes: The best add. clear weapon in the game, hands down. On a Gyrfalcon's hunter you can solo clear Master Raid encounters full of adds while your team does whatever they want. tags:s-tier,pve
 dimwishlist:item=3796510434&perks=839105230,2420895100,1820235745,4049631843
 dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,4049631843
 
 
 // Corrective Measure (pve)
-//notes: add. clear,volatile tags:s-tier,pve
+//notes: The best add. clear weapon in the game, hands down. On a Gyrfalcon's hunter you can solo clear Master Raid encounters full of adds while your team does whatever they want. tags:s-tier,pve
 dimwishlist:item=471518543&perks=839105230,2420895100,1820235745,4049631843
 dimwishlist:item=471518543&perks=839105230,1087426260,1820235745,4049631843
 
 
 // Retrofit Escapade
-//notes: sustain,volatile tags:s-tier,pve
+//notes: Not the best DPS by any means, but servicable as an incredibly high total-damage weapon, with the added benefit of being able to clear adds too. tags:s-tier,pve
 dimwishlist:item=3103325054&perks=839105230,2420895100,848860060,2939589096,192157151
 
 
 // The Hothead (Adept) (pve)
-//notes: clown rocket tags:s-tier,pve
+//notes: Clown Cartridge with Wolfpack Rounds is a great DPS pick if nothing else is working. Field prep gives Hothead an extra rocket, and the reload speed increase is great. tags:s-tier,pve
 dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,2284787283
 
 
 // The Hothead (Adept) (pve)
-//notes: swapping tags:a-tier,pve
+//notes: Dated today with the Starfire Protocol nerf, but still excellent if switching weapons like a slug shotgun, or Izanagi's Burden. tags:a-tier,pve
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3300816228,3194351027
 
 
 // The Hothead (pve)
-//notes: clown rocket tags:s-tier,pve
+//notes: Clown Cartridge with Wolfpack Rounds is a great DPS pick if nothing else is working. Field prep gives Hothead an extra rocket, and the reload speed increase is great. tags:s-tier,pve
 dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,2284787283
 
 
 // The Hothead (pve)
-//notes: swapping tags:a-tier,pve
+//notes: Dated today with the Starfire Protocol nerf, but still excellent if switching weapons like a slug shotgun, or Izanagi's Burden. tags:a-tier,pve
 dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3194351027
 
 
 // Apex Predator (slideways)
-//notes: swapping,slideways dps tags:s-tier,slideways,slideshot,pve
+//notes: Exceptionally fun and great DPS comes from mastering Slideways resets; whether using multiple slideways weapons, double-slugs, or Izanagi/Witherhoard. tags:s-tier,slideways,slideshot,pve
 dimwishlist:item=1851777734&perks=3525010810,3796465595,2396422520,3744057135
 
 
 // Apex Predator (recon)
-//notes: swapping tags:s-tier,pve
+//notes: Excellent as a swapping weapon for those who don't want to deal with Slideways. tags:s-tier,pve
 dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,3744057135
 dimwishlist:item=1851777734&perks=3525010810,3796465595,461595545,2275087323
 
 
 // Age Old Bond
-//notes: tags:pve
+//notes: Workhorse Void auto. Repulsor Brace and Dragonfly in the left column are uncommon, and solid perks to complement your Void build and Golden Tricorn. tags:pve
+dimwishlist:item=424291879&perks=1840239774,3230963543,2541826827,4290541820
+dimwishlist:item=424291879&perks=839105230,3230963543,2541826827,4290541820
+dimwishlist:item=424291879&perks=839105230,3230963543,169755979,4290541820
+dimwishlist:item=424291879&perks=1840239774,3230963543,169755979,4290541820
 
 
 // Tripwire Canary
-//notes: tags:pve
+//notes: Solid replacement for the difficult to obtain Wolftone Draw precision frame. Workhouse Arc bow for Champion stuns and Arc shields. tags:pve
+dimwishlist:item=3849444474&perks=2801223209,3429800428,3523746922,1551736345
+dimwishlist:item=3849444474&perks=2801223209,3429800428,3523746922,3007133316
+dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,3007133316
+dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,1551736345
+
+
+// Wolftone Draw
+//notes: Workhorse Arc bow for Champion stuns and Arc shields. tags:pve
+dimwishlist:item=3472875143&perks=4067834857,3827198035,201365942,4104185692
+
+
+// Arsenic Bite-4B
+//notes: Interesting trait combination that rewards you with great damage per shot if you can keep feeding it kills. tags:pve
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,3365897133
 
 
 // Tyranny of Heaven
-//notes: tags:pve
+//notes: Great Solar workhorse bow for Champion stuns and Solar shields. tags:pve
+dimwishlist:item=3388655311&perks=2801223209,16392701,1551736345,859780267
+dimwishlist:item=3388655311&perks=2801223209,16392701,169755979,859780267
+dimwishlist:item=3388655311&perks=2801223209,16392701,3523746922,859780267
 
 
 // Under Your Skin
-//notes: tags:pve
+//notes: Great Void workhorse bow, works well with Volatile rounds. tags:pve
+dimwishlist:item=232928045&perks=2801223209,3429800428,3523746922,1551736345
 
 
 // Fatebringer (Timelost) (pve)
-//notes: tags:a-tier,pve
+//notes: Exceptional traits, on a non-meta weapon type. Near 100% uptime of your damage perks makes this a great pick for an energy special weapon user. tags:a-tier,pve
 dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,4104185692
 dimwishlist:item=1216319404&perks=839105230,3230963543,3038247973,4104185692
 
 
 // Fatebringer (pve)
-//notes: tags:a-tier,pve
+//notes: Exceptional traits, on a non-meta weapon type. Near 100% uptime of your damage perks makes this a great pick for an energy special weapon user. tags:a-tier,pve
 dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,4104185692
 dimwishlist:item=2171478765&perks=839105230,3230963543,3038247973,4104185692
 
 
 // Nation of Beasts
-//notes: tags:pve
+//notes: Exceptional traits, on a non-meta weapon type. Great for Arc 3.0 builds if you're tired of using SMGs tags:pve
+dimwishlist:item=70083888&perks=1840239774,3230963543,169755979,64866129
+dimwishlist:item=70083888&perks=1840239774,3230963543,169755979,4290541820
 
 
 // Zaouli's Bane
-//notes: tags:pve
-
+//notes: Exceptional traits, on a non-meta weapon type. Great for Solar 3.0 builds - very high damage per shot with Explosive Rounds and One for All. tags:pve
+dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,859780267
+dimwishlist:item=431721920&perks=839105230,3230963543,64866129,859780267
 
 // IKELOS_HC_V1.0.3
-//notes: tags:pve
+//notes: If you can stomach a 180 Handcannon in PvE, this may surprise you. Enhanced Subsistence with a mag increase will load four (4) rounds per kill. Great with Gyrfalcons. tags:pve
+dimwishlist:item=1731355324&perks=1840239774,2420895100,4245865861,859780267
 
 
 // Smite of Merain
-//notes: tags:pve
+//notes: Probably the highest damage perk combination we've seen on a Legandary Primary. Chews through Red bars in GMs. tags:pve
+dimwishlist:item=2221264583&perks=1840239774,3230963543,2402480669,859780267
+dimwishlist:item=2221264583&perks=839105230,3230963543,2402480669,859780267
 
 
 // Insidious
-//notes: tags:pve
+//notes: Excellent synergy with Dragonfly and One for All. Big damage with decent AoE on a weapon great for Arc builds. Hard to ask for more. tags:pve
+dimwishlist:item=3428521585&perks=1840239774,3230963543,169755979,859780267
+dimwishlist:item=3428521585&perks=839105230,3230963543,169755979,859780267
+dimwishlist:item=3428521585&perks=1840239774,3230963543,1906147653,859780267
+dimwishlist:item=3428521585&perks=839105230,3230963543,1906147653,859780267
 
 
 // Ogma PR6 (pve)
-//notes: tags:a-tier,pve
+//notes: Great workhorse Solar pulse. The synergy between Stats & One for All needs no explaination. tags:a-tier,pve
 dimwishlist:item=2342054803&perks=1840239774,3230963543,1583705720,4049631843
 dimwishlist:item=2342054803&perks=1840239774,3230963543,3523296417,4049631843
 dimwishlist:item=2342054803&perks=1840239774,3230963543,3108830275,4049631843
@@ -218,12 +250,12 @@ dimwishlist:item=2342054803&perks=839105230,3230963543,3108830275,4049631843
 
 
 // Veles-X
-//notes: tags:a-tier,pve
+//notes: Left column Repulsor Brace makes and Golden Tricorn makes this an excellent pick on an ability heavy void build. The only letdown is the weapon type. tags:a-tier,pve
 dimwishlist:item=2276328320&perks=776531651,2610012052,1607056502
 
 
 // Perses-D (pve)
-//notes: tags:a-tier,pve
+//notes: When you need a Kinetic slot Scout Rifle, the Perses-D perk pool makes it difficult to use anything else. Guns like Call to Arms just feel weak in comparison. tags:a-tier,pve
 dimwishlist:item=1019000888&perks=1840239774,3230963543,1583705720,4049631843
 dimwishlist:item=1019000888&perks=1840239774,3230963543,1583705720,3038247973
 dimwishlist:item=1019000888&perks=1840239774,3230963543,247725512,4049631843
@@ -234,13 +266,13 @@ dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,4049631843
 dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,3038247973
 
 
-// Perses-D ()
-//notes: special-tier,shoot to Loot
+// Perses-D (Shoot to Loot)
+//notes: Useful for grabbing ammo with Shoot to Loot while using a Kinetic slot primary. tags:special-tier,shoot to Loot
 dimwishlist:item=1019000888&perks=3700496672,3038247973
 
 
 // Eternal Blazon (pve)
-//notes: tags:a-tier,pve
+//notes: Workhorse Arc Scout Rifle, although unfortunately downright impossible to obtain without going insane. If you have it, great, if not, just craft a Tarnished Mettle. tags:a-tier,pve
 dimwishlist:item=3514096004&perks=194952923,1561002382,247725512,4049631843
 dimwishlist:item=3514096004&perks=194952923,3230963543,247725512,4049631843
 dimwishlist:item=3514096004&perks=194952922,1561002382,247725512,4049631843
@@ -252,7 +284,7 @@ dimwishlist:item=3514096004&perks=1628165637,3230963543,247725512,4049631843
 
 
 // Vision of Confluence (Timelost) (pve)
-//notes: tags:a-tier,pve
+//notes: Workhorse Solar Scout Rifle with an uncommon left column trait - good for keeping long cooldown Solar abilities up in activities where you can't benefit from Ember of Benevolence. tags:a-tier,pve
 dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,4104185692
 dimwishlist:item=690668916&perks=1840239774,3230963543,3592538738,4104185692
 dimwishlist:item=690668916&perks=839105230,1561002382,3592538738,4104185692
@@ -260,7 +292,7 @@ dimwishlist:item=690668916&perks=839105230,3230963543,3592538738,4104185692
 
 
 // Vision of Confluence (pve)
-//notes: tags:a-tier,pve
+//notes: Workhorse Solar Scout Rifle with an uncommon left column trait - good for keeping long cooldown Solar abilities up in activities where you can't benefit from Ember of Benevolence. tags:a-tier,pve
 dimwishlist:item=3186018373&perks=1840239774,1561002382,3592538738,4104185692
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3592538738,4104185692
 dimwishlist:item=3186018373&perks=839105230,1561002382,3592538738,4104185692
@@ -268,7 +300,7 @@ dimwishlist:item=3186018373&perks=839105230,3230963543,3592538738,4104185692
 
 
 // Fioritura-59 (pve)
-//notes: volatile tags:a-tier,pve
+//notes: An interesting weapon. Sidearms do a lot of damage base, so even without a damage perk, Fioritura does a lot of work. tags:a-tier,pve
 dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,776531651
 dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,2610012052
 dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,776531651
@@ -280,11 +312,19 @@ dimwishlist:item=2566006935&perks=839105230,3230963543,4071163871,2610012052
 
 
 // Submission
-//notes: tags:pve
+//notes: Nice feeling Kinetic SMG. Enh. sub isn't as good on SMGs, but the extra damage from Kinetic type weapons allows this Frenzy SMG to compete with Prolonged Engagement. tags:pve
+dimwishlist:item=3886416794&perks=1840239774,3230963543,4245865861,3007133316
 
+
+// Prolonged Engagement
+//notes: Great SMG. Regular Subsistence reloads 17% mag, so not much is lost compared to a craftable alternative. One for All's huge damage bonus allows this to compete with Kinetic SMGs. tags:pve
+dimwishlist:item=2349907931&perks=1840239774,1561002382,1820235745,4049631843
+dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,4049631843
+dimwishlist:item=2349907931&perks=839105230,3230963543,1820235745,4049631843
+dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,4049631843
 
 // Unforgiven (pve)
-//notes: volatile primary tags:a-tier,pve
+//notes: Good workhorse Void SMG - unfortunately Demolitionist doesn't grant energy when Volatile kills your target. Good if you don't have The Title, although slow to reload with a small mag. tags:a-tier,pve
 dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,2610012052
 dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,776531651
 dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,4104185692
@@ -324,7 +364,7 @@ dimwishlist:item=3000847393&perks=839105230,1087426260,2779035018,4104185692
 
 
 // Cartesian Coordinate (pve)
-//notes: non-crit tags:a-tier,pve
+//notes: Hard to obtain but has been a great pick against enemies with no/small crits (Wyverns, shielded majors, etc.). Power-matched by the easier to obtain Techeun Force but still worth a mention. tags:a-tier,pve
 dimwishlist:item=2481881293&perks=13792278,689005463,2039302152,1546637391
 dimwishlist:item=2481881293&perks=13792278,689005463,1556840489,1546637391
 dimwishlist:item=2481881293&perks=2410284311,689005463,2039302152,1546637391
@@ -334,17 +374,19 @@ dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391
 
 
 // Succession
-//notes: tags:pve
+//notes: Excellent for deleting that one Major target that spawns every so often (Acquisition encounter). Essentially a legendary rarity Izanagi for this purpose. tags:pve
+dimwishlist:item=2990047042&perks=1840239774,106909392,461595545,3335686050
+dimwishlist:item=2990047042&perks=839105230,106909392,461595545,3335686050
 
 
 // Irukandji (pve)
-//notes: tags:a-tier,pve
+//notes: Excellent sustain and DPS for a special weapon. Would be better as a Kinetic. tags:a-tier,pve
 dimwishlist:item=2673925403&perks=1840239774,1087426260,1354429876,1771339417
 dimwishlist:item=2673925403&perks=839105230,1087426260,1354429876,1771339417
 
 
 // Distant Tumulus (pve)
-//notes: tags:a-tier,pve
+//notes: Excellent DPS for a legendary special. tags:a-tier,pve
 dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417
 dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417
@@ -352,11 +394,13 @@ dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417
 
 
 // Dimensional Hypotrochoid
-//notes: tags:pve
+//notes: If you need more burst add. clear but your Forbearance won't reload fast enough, try this. tags:pve
+dimwishlist:item=1311684613&perks=3525010810,2822142346,2308090567,598607952
+dimwishlist:item=1311684613&perks=3525010810,2822142346,855168139,598607952
 
 
 // Wendigo GL3 (Adept) (pve)
-//notes: dps,swapping tags:a-tier,pve
+//notes: A good grenade launcher - unfortunately they haven't come into their own since the original Wendigo release, despite their DPS. Keep ahold of this. tags:a-tier,pve
 dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3194351027
 dimwishlist:item=3915197957&perks=3525010810,3301904089,2284787283,3194351027
 dimwishlist:item=3915197957&perks=981914802,3301904089,3300816228,3194351027
@@ -364,7 +408,7 @@ dimwishlist:item=3915197957&perks=981914802,3301904089,2284787283,3194351027
 
 
 // Wendigo GL3 (pve)
-//notes: dps,swapping tags:a-tier,pve
+//notes: A good grenade launcher - unfortunately they haven't come into their own since the original Wendigo release, despite their DPS. Keep ahold of this. tags:a-tier,pve
 dimwishlist:item=1854753404&perks=3525010810,3301904089,3300816228,3194351027
 dimwishlist:item=1854753404&perks=3525010810,3301904089,2284787283,3194351027
 dimwishlist:item=1854753404&perks=981914802,3301904089,3300816228,3194351027
@@ -372,19 +416,23 @@ dimwishlist:item=1854753404&perks=981914802,3301904089,2284787283,3194351027
 
 
 // Regnant
-//notes: tags:pve
+//notes: A good grenade launcher - unfortunately they haven't come into their own since the original Wendigo release, despite their DPS. Keep ahold of this. tags:pve
+dimwishlist:item=268260372&perks=981914802,3301904089,3528046508,2275087323
 
 
 // Taipan-4FR
-//notes: tags:pve
+//notes: Cataclysmic Lite™. Probably the most accessible crafted weapon. tags:pve
+dimwishlist:item=1911060537&perks=1840239774,2680121939,573122728,395388285
 
 
 // Bump in the Night
-//notes: tags:pve
+//notes: Powercrept by Apex Predator, but still niche for easier to use double special DPS, Stasis Surge with Elemental Charge, and Chill Clip shenanigans. tags:pve
+dimwishlist:item=1959650777&perks=981914802,3796465595,3528046508,3007133316
+dimwishlist:item=1959650777&perks=981914802,3796465595,3528046508,344235611
 
 
 // Krait
-//notes: tags:b-tier,pve
+//notes: Workhorse Stasis Auto Rifle. Would be better as a Kinetic. tags:b-tier,pve
 dimwishlist:item=2852052802&perks=1840239774,3230963543,1583705720,4049631843
 dimwishlist:item=2852052802&perks=839105230,3230963543,1583705720,4049631843
 dimwishlist:item=2852052802&perks=1840239774,3230963543,1820235745,4049631843
@@ -396,24 +444,31 @@ dimwishlist:item=2852052802&perks=839105230,1561002382,1820235745,4049631843
 
 
 // Come to Pass
-//notes: tags:pve
-
+//notes: Workhorse Arc Auto Rifle for Champion stuns and Arc shields. The only letdown is the weapon type. tags:pve
+dimwishlist:item=927567426&perks=1840239774,3230963543,1409206216,859780267
+dimwishlist:item=927567426&perks=839105230,3230963543,1409206216,859780267
 
 // Ammit AR2
-//notes: tags:pve
+//notes: Workhorse Solar Auto Rifle for Champion stuns and Solar shields. The only letdown is the weapon type. tags:pve
+dimwishlist:item=2119346509&perks=1840239774,1561002382,1409206216,859780267
+dimwishlist:item=2119346509&perks=1840239774,3230963543,1409206216,859780267
+dimwishlist:item=2119346509&perks=839105230,1561002382,1409206216,859780267
+dimwishlist:item=2119346509&perks=839105230,3230963543,1409206216,859780267
 
 
 // Fel Taradiddle
-//notes: tags:pve
-
+//notes: Workhorse Kinetic Bow for Champion stuns. tags:pve
+dimwishlist:item=1399109800&perks=2801223209,3429800428,3523746922,1551736345
+dimwishlist:item=1399109800&perks=2801223209,3429800428,1409206216,859780267
+dimwishlist:item=1399109800&perks=2801223209,3429800428,3523746922,617966211
 
 // Null Composure
-//notes: tags:b-tier,pve
+//notes: Great for Void shielded major heavy content (Master Vog entrance), alright for major heavy content too. Good weapon but not as useful or impactful as something like Forbearance. tags:b-tier,pve
 dimwishlist:item=1644680957&perks=2779035018,1427256713
 
 
 // New Pacific Epitaph
-//notes: tags:b-tier,pve
+//notes: Good weapon but not as useful or impactful as something like Forbearance. Its' only redeeming quality is the Kinetic slot it resides in. tags:b-tier,pve
 dimwishlist:item=1125217994&perks=3525010810,2822142346,1556840489,3201496230
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3523296417,3201496230
 dimwishlist:item=1125217994&perks=3525010810,2822142346,1556840489,3324494224
@@ -421,94 +476,117 @@ dimwishlist:item=1125217994&perks=3525010810,2822142346,3523296417,3324494224
 
 
 // Explosive Personality
-//notes: tags:pve
+//notes: Good weapon but not as useful or impactful as something like Forbearance. tags:pve
+dimwishlist:item=4096943616&perks=3809316345,2822142346,1409206216,859780267
+dimwishlist:item=4096943616&perks=3809316345,2822142346,3528046508,3007133316
 
 
 // Harsh Language
-//notes: tags:b-tier,pve
+//notes: Good weapon but not as useful or impactful as something like Forbearance. tags:b-tier,pve
 dimwishlist:item=1606497639&perks=3525010810,2822142346,3592538738,2610012052
 dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2610012052
 
 
 // IKELOS_SR_v1.03
-//notes: tags:pve
+//notes: Decent for ammo economy and solo content due to the ease of Focused Furys' use & uptime. Good as a pair with Apex Predator for Solar Surge also, although Distant Tumulus (or a Solar Slug) would be better. tags:pve
+dimwishlist:item=2302346155&perks=839105230,106909392,848860060,2402480669
 
 
 // Fugue-55
-//notes: swapping tags:b-tier,pve
+//notes: Good as a Bait and Switch proccing special to min-max damage rotations, due to the instant activation of Firing Line. Pretty niche. tags:b-tier,pve
 dimwishlist:item=2233545123&perks=1840239774,2420895100,1354429876,1771339417
 
 
 // Tarnished Mettle
-//notes: tags:pve
+notes: Decent replacement for Eternal Blazon, albeit much weaker. tags: b-tier, pve
+dimwishlist:item=2218569744&perks=1840239774,3230963543,2938480696,64866129
+dimwishlist:item=2218569744&perks=839105230,3230963543,2938480696,64866129
+dimwishlist:item=2218569744&perks=1840239774,3230963543,1906147653,64866129
+dimwishlist:item=2218569744&perks=839105230,3230963543,1906147653,64866129
+
+
+// Tarnished Mettle (Shoot to Loot)
+//notes: Useful for grabbing ammo with Shoot to Loot while using an energy slot primary. Only craftable Shoot to Loot + Explosive Rounds scout. tags:special-tier, shoot to loot
+dimwishlist:item=2218569744&perks=1840239774,3230963543,2840833776,64866129
+dimwishlist:item=2218569744&perks=839105230,3230963543,2840833776,64866129
 
 
 // Riptide
-//notes: chill clip,anti-champ tags:special-tier,pve
+//notes: Excellent Champion counter weapon. tags:special-tier,pve
 dimwishlist:item=2715240478&perks=1840239774,689005463,3300816228,2978966579
 dimwishlist:item=2715240478&perks=1840239774,689005463,1556840489,2978966579
 
 
 // Iterative Loop
-//notes: tags:pve
+//notes: Useful for applying Jolt via Voltshot to a boss before damage. tags:pve
+dimwishlist:item=1289796511&perks=1840239774,2680121939,595108252,1720528630
+dimwishlist:item=1289796511&perks=1840239774,2680121939,3442762221,1720528630
 
 
 // Ignition Code (blinding)
-//notes: blinding tags:special-tier,pve
+//notes: Excellent blinding Grenade Launcher, but now unobtainable. Great for Divinity + 2x Izanagi GM speedruns. tags:special-tier,pve
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,960810156
 
 
 // Ignition Code (DPS)
-//notes: slideshot dps tags:special-tier,slideshot,slideways,pve
+//notes: If you have the roll, it's fun to use with Slidways weapons (Apex Predator), if not just farm The Militia's Birthright. tags:special-tier,slideshot,slideways,pve
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,4104185692
 
 
 // The Militia's Birthright (Adept) (blinding)
-//notes: blinding tags:special-tier,pve
+//notes: Excellent blinding Grenade Launcher. Great for Divinity + 2x Izanagi GM speedruns. tags:special-tier,pve
 dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,3300816228
 dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,960810156
 
 
 // The Militia's Birthright (Adept) (DPS)
-//notes: slideshot dps tags:special-tier,slideshot,slideways,pve
+//notes: Fun to use with Slidways weapons (Apex Predator). tags:special-tier,slideshot,slideways,pve
 dimwishlist:item=4162642204&perks=3525010810,3301904089,2039302152,4104185692
 
 
 // The Militia's Birthright (blinding)
-//notes: blinding tags:special-tier,pve
+//notes: Excellent blinding Grenade Launcher. Great for Divinity + 2x Izanagi GM speedruns. tags:special-tier,pve
 dimwishlist:item=1854753405&perks=3525010810,3032599245,2039302152,3300816228
 dimwishlist:item=1854753405&perks=3525010810,3032599245,2039302152,960810156
 
 // The Militia's Birthright (DPS)
-//notes: slideshot dps tags:special-tier,slideshot,slideways,pve
+//notes: Fun to use with Slidways weapons (Apex Predator). tags:special-tier,slideshot,slideways,pve
 dimwishlist:item=1854753405&perks=3525010810,3301904089,2039302152,4104185692
 
 // Empty Vessel
-//notes: blinding tags:special-tier,pve
+//notes: Energy slot blinding Grenade Launcher. tags:special-tier,pve
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,960810156
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515
 
 
 // Wastelander M5
-//notes: tags:pve
+//notes: Great choice for Shield Bash melee damage, although unfortunately nerfed. Still a great Kinetic slot Enhanced One-Two punch shotgun for all melee builds. tags:special-tier,pve
+dimwishlist:item=1679868061&perks=1300023272,106909392,191144788,788178929
 
 
 // IKELOS_SG_V1.0.3
-//notes: tags:pve
+//notes: A great Energy slot Enhanced One-Two punch shotgun for all melee builds.tags:special-tier,pve
+dimwishlist:item=1168625549&perks=1300023272,106909392,402033656,788178929
 
 
 // Path of Least Resistance
-//notes: tags:pve
+//notes: Useful if you need to swap to a special weapon mid fight, but also need Shoot to Loot. tags:special-tier,pve
+dimwishlist:item=2827764482&perks=1840239774,2749775325,2840833776,859780267,192157151
 
 
 // Koraxis's Distress
-//notes: tags:pve
+//notes: Useful for Lucent Hive or Tormentor fights, so long as you can get Surrounded to activate (Ecthar, Simmummah, Nezarec). Remember to run 2 other Harmonic Resonance weapons for the 10% boost. tags:special-tier,pve
+dimwishlist:item=2972949637&perks=981914802,3301904089,461595545,781192741
+dimwishlist:item=2972949637&perks=981914802,3301904089,2308090567,781192741
 
 
 // Briar's Contempt
-//notes: tags:pve
+//notes: Useful for Lucent Hive or Tormentor fights, so long as you can get Surrounded to activate (Ecthar, Simmummah, Nezarec). Remember to run 2 other Harmonic Resonance weapons for the 10% boost. tags:special-tier,pve
+dimwishlist:item=1491665733&perks=1840239774,1483536627,1563455254,781192741
+dimwishlist:item=1491665733&perks=839105230,1483536627,1563455254,781192741
 
 
 // The Other Half
-//notes: tags:pve
+//notes: Needs no introduction. tags:special-tier,movement
+dimwishlist:item=3257091167&perks=436053704,3625355092,1618208178,147913470
