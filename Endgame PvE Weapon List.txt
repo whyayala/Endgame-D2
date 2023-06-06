@@ -1,9 +1,5 @@
 title:Endgame PvE Weapon List
-description:Curated wishlist focusing on endgame content,including:
-→ Contest Mode
-→ Grandmaster Nightfalls
-→ Master Raids & Dungeons
-→ Shield & Champion-heavy content
+description:Curated wishlist focusing on endgame content,including: Contest Mode, Grandmaster Nightfalls, Master Raids & Dungeons, and Shield & Champion-heavy content.
 
 
 // Doom of Chelchis (pve)
