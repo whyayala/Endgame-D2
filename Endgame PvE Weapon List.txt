@@ -449,10 +449,10 @@ dimwishlist:item=1866778462&perks=,,3300816228,3194351027
 
 // The Militia's Birthright (Adept)
 //notes: Excellent blinding Grenade Launcher. Great for Divinity + 2x Izanagi GM speedruns. Fun to use with Slidways weapons (Apex Predator).
-dimwishlist:item=2378101424&perks=3525010810,3032599245,2039302152,4104185692
-dimwishlist:item=2378101424&perks=,,2039302152,4104185692
-dimwishlist:item=2378101424&perks=3525010810,3032599245,2039302152,3300816228
-dimwishlist:item=2378101424&perks=,,2039302152,3300816228
+dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,4104185692
+dimwishlist:item=4162642204&perks=,,2039302152,4104185692
+dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,3300816228
+dimwishlist:item=4162642204&perks=,,2039302152,3300816228
 
 // The Other Half
 //notes: Needs no introduction.
@@ -484,10 +484,10 @@ dimwishlist:item=3849444474&perks=,,201365942,3365897133
 
 // Tyranny of Heaven
 //notes: Great Solar workhorse bow for Champion stuns and Solar shields.
-dimwishlist:item=2721249463&perks=2801223209,16392701,3365897133,4049631843
-dimwishlist:item=2721249463&perks=,,3365897133,4049631843
-dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,4049631843
-dimwishlist:item=2721249463&perks=,,201365942,4049631843
+dimwishlist:item=3388655311&perks=2801223209,16392701,3365897133,4049631843
+dimwishlist:item=3388655311&perks=,,3365897133,4049631843
+dimwishlist:item=3388655311&perks=2801223209,16392701,201365942,4049631843
+dimwishlist:item=3388655311&perks=,,201365942,4049631843
 
 // Under Your Skin
 //notes: Great Void workhorse bow, works well with Volatile rounds.
@@ -505,8 +505,8 @@ dimwishlist:item=3000847393&perks=,,3523296417,11612903
 
 // Unwavering Duty (Adept)
 //notes: Not as good as a One for All Machine Gun in my opinion, but still excellent. Great for extending Restoration and Radiant.
-dimwishlist:item=2759251821&perks=839105230,2420895100,1820235745,557221067
-dimwishlist:item=2759251821&perks=,,1820235745,557221067
+dimwishlist:item=3444632029&perks=839105230,2420895100,1820235745,557221067
+dimwishlist:item=3444632029&perks=,,1820235745,557221067
 
 // Veles-X
 //notes: Left column Repulsor Brace makes and Golden Tricorn makes this an excellent pick on an ability heavy void build. The only letdown is the weapon type.
