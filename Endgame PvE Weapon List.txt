@@ -129,6 +129,11 @@ dimwishlist:item=2807687156&perks=,,2284787283,1771339417
 dimwishlist:item=1937552980&perks=1840239774,1840239774,3038247973,4049631843
 dimwishlist:item=1937552980&perks=,,3038247973,4049631843
 
+// Duty Bound (Adept)
+//notes: Workhorse Kinetic Auto Rifle.
+dimwishlist:item=1135050595&perks=839105230,839105230,1583705720,4049631843
+dimwishlist:item=1135050595&perks=,,1583705720,4049631843
+
 // Empty Vessel
 //notes: Energy slot blinding Grenade Launcher.
 dimwishlist:item=4255586669&perks=3525010810,3525010810,3300816228,960810156
@@ -294,7 +299,7 @@ dimwishlist:item=2972949637&perks=981914802,981914802,1523832109,3708227201
 dimwishlist:item=2972949637&perks=,,1523832109,3708227201
 
 // Krait
-//notes: Workhorse Stasis Auto Rifle. Would be better as a Kinetic.
+//notes: Workhorse Stasis Auto Rifle. Would be better as a Kinetic, although Veist Stinger helps.
 dimwishlist:item=2852052802&perks=839105230,839105230,1583705720,4049631843
 dimwishlist:item=2852052802&perks=,,1583705720,4049631843
 dimwishlist:item=2852052802&perks=839105230,839105230,1820235745,4049631843
