@@ -157,14 +157,14 @@ dimwishlist:item=3514096004&perks=,,247725512,4049631843
 
 // Explosive Personality
 //notes: Good weapon but not as useful or impactful as something like Forbearance outside of solo Nezerac.
-dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,4049631843
-dimwishlist:item=4096943616&perks=,,1583705720,4049631843
-dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,4104185692
-dimwishlist:item=4096943616&perks=,,1583705720,4104185692
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843
 dimwishlist:item=4096943616&perks=,,3300816228,4049631843
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692
 dimwishlist:item=4096943616&perks=,,3300816228,4104185692
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,4049631843
+dimwishlist:item=4096943616&perks=,,1583705720,4049631843
+dimwishlist:item=4096943616&perks=3525010810,2822142346,1583705720,4104185692
+dimwishlist:item=4096943616&perks=,,1583705720,4104185692
 
 // Fatebringer (Timelost)
 //notes: Exceptional traits, on a non-meta weapon type. Near 100% uptime of your damage perks makes this a great pick for an energy special weapon user.
@@ -260,9 +260,9 @@ dimwishlist:item=1731355324&perks=,,1820235745,4049631843
 
 // IKELOS_SG_V1.0.3
 //notes: Another non-crit option. Cascade has higher DPS but considerably lower Total.
-dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,3708227201
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,3708227201
 dimwishlist:item=1168625549&perks=,,4071163871,3708227201
-dimwishlist:item=1168625549&perks=1300023272,791862061,4071163871,3751912585
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,3751912585
 dimwishlist:item=1168625549&perks=,,4071163871,3751912585
 
 // IKELOS_SMG_v1.0.3
@@ -484,7 +484,7 @@ dimwishlist:item=3257091167&perks=,,2077819806,4104185692
 
 // The Supremacy
 //notes: Good DPS but no ammo generating perk means low total damage. 
-dimwishlist:item=2884596447&perks=839105230,106909392,3418782618,3078487919
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3078487919
 dimwishlist:item=2884596447&perks=,,3418782618,3078487919
 
 // The Title
