@@ -12,20 +12,25 @@ dimwishlist:item=3325778512&perks=,,1820235745,4049631843
 dimwishlist:item=3325778512&perks=839105230,1968497646,2869569095,4049631843
 dimwishlist:item=3325778512&perks=,,2869569095,4049631843
 
+// Accrued Redemption
+//notes: Workhorse Kinetic Bow for Champion stuns.
+dimwishlist:item=4095896073&perks=2801223209,3429800428,201365942,3365897133
+dimwishlist:item=4095896073&perks=,,201365942,3365897133
+
 // Age-Old Bond
 //notes: Workhorse Void auto. Repulsor Brace and Dragonfly in the left column are uncommon, and solid perks to complement your Void build and Golden Tricorn.
-dimwishlist:item=424291879&perks=839105230,3230963543,776531651,2610012052
-dimwishlist:item=424291879&perks=,,776531651,2610012052
-dimwishlist:item=424291879&perks=839105230,3230963543,776531651,3324494224
-dimwishlist:item=424291879&perks=,,776531651,3324494224
 dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,2610012052
 dimwishlist:item=424291879&perks=,,2848615171,2610012052
 dimwishlist:item=424291879&perks=839105230,3230963543,2848615171,3324494224
 dimwishlist:item=424291879&perks=,,2848615171,3324494224
+dimwishlist:item=424291879&perks=839105230,3230963543,776531651,2610012052
+dimwishlist:item=424291879&perks=,,776531651,2610012052
+dimwishlist:item=424291879&perks=839105230,3230963543,776531651,3324494224
+dimwishlist:item=424291879&perks=,,776531651,3324494224
 
 // Ammit AR2
 //notes: Workhorse Solar Auto Rifle for Champion stuns and Solar shields. The only letdown is the weapon type.
-dimwishlist:item=2119346509&perks=839105230,1561002382,1583705720,4049631843
+dimwishlist:item=2119346509&perks=839105230,1968497646,1583705720,4049631843
 dimwishlist:item=2119346509&perks=,,1583705720,4049631843
 
 // Apex Predator
@@ -86,7 +91,7 @@ dimwishlist:item=839786290&perks=,,968510818,1439600632
 
 // Come to Pass
 //notes: Workhorse Arc Auto Rifle for Champion stuns and Arc shields. The only letdown is the weapon type.
-dimwishlist:item=927567426&perks=1840239774,3230963543,1583705720,4049631843
+dimwishlist:item=927567426&perks=839105230,3230963543,1583705720,4049631843
 dimwishlist:item=927567426&perks=,,1583705720,4049631843
 
 // Corrective Measure (Timelost)
@@ -121,7 +126,7 @@ dimwishlist:item=1311684613&perks=,,2869569095,2396489472
 
 // Distant Tumulus
 //notes: Excellent DPS for a legendary special. Lacking in total damage.
-dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
+dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=,,2284787283,1771339417
 
 // Doom of Chelchis
@@ -147,7 +152,7 @@ dimwishlist:item=4255586669&perks=,,1556840489,4049631843
 
 // Eternal Blazon
 //notes: Workhorse Arc Scout Rifle, although unfortunately downright impossible to obtain without going insane. If you have it, great, if not, just craft a Tarnished Mettle.
-dimwishlist:item=3514096004&perks=1840239774,1561002382,247725512,4049631843
+dimwishlist:item=3514096004&perks=1840239774,1968497646,247725512,4049631843
 dimwishlist:item=3514096004&perks=,,247725512,4049631843
 
 // Explosive Personality
@@ -165,17 +170,6 @@ dimwishlist:item=4096943616&perks=,,3300816228,4104185692
 //notes: Exceptional traits, on a non-meta weapon type. Near 100% uptime of your damage perks makes this a great pick for an energy special weapon user.
 dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,4104185692
 dimwishlist:item=1216319404&perks=,,3038247973,4104185692
-
-// Fel Taradiddle
-//notes: Workhorse Kinetic Bow for Champion stuns. Not great.
-dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,3365897133
-dimwishlist:item=1399109800&perks=,,201365942,3365897133
-dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,4049631843
-dimwishlist:item=1399109800&perks=,,201365942,4049631843
-dimwishlist:item=1399109800&perks=2801223209,3429800428,1583705720,3365897133
-dimwishlist:item=1399109800&perks=,,1583705720,3365897133
-dimwishlist:item=1399109800&perks=2801223209,3429800428,1583705720,4049631843
-dimwishlist:item=1399109800&perks=,,1583705720,4049631843
 
 // Fioritura-59
 //notes: An interesting weapon. Sidearms do a lot of damage base, so even without a damage perk Fioritura does a lot of work (if you can get past the feeling of using a sidearm).
@@ -241,6 +235,17 @@ dimwishlist:item=2323544076&perks=,,1556840489,557221067
 dimwishlist:item=2323544076&perks=1840239774,2749775325,1556840489,776531651
 dimwishlist:item=2323544076&perks=,,1556840489,776531651
 
+// Hung Jury SR4
+//notes: Decent Kinetic slot alternative to Perses-D, with Frenzy and the +10% Kinetic boost, it's almost as good as One for All if you need to use a scout.
+dimwishlist:item=3832743906&perks=1840239774,3230963543,247725512,4104185692
+dimwishlist:item=3832743906&perks=,,247725512,4104185692
+dimwishlist:item=3832743906&perks=1840239774,3230963543,247725512,3038247973
+dimwishlist:item=3832743906&perks=,,247725512,3038247973
+dimwishlist:item=3832743906&perks=1840239774,3230963543,3700496672,4104185692
+dimwishlist:item=3832743906&perks=,,3700496672,4104185692
+dimwishlist:item=3832743906&perks=1840239774,3230963543,3700496672,3038247973
+dimwishlist:item=3832743906&perks=,,3700496672,3038247973
+
 // Ignition Code
 //notes: Excellent blinding Grenade Launcher, but now unobtainable outside Dares. Great for Divinity + 2x Izanagi GM speedruns, or some slideways nonsense with Apex.
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4104185692
@@ -279,9 +284,9 @@ dimwishlist:item=3428521585&perks=,,1583705720,4049631843
 
 // Irukandji
 //notes: Excellent sustain and DPS for a special weapon. Would be better as a Kinetic.
-dimwishlist:item=2673925403&perks=1840239774,106909392,1354429876,1771339417
+dimwishlist:item=2673925403&perks=839105230,106909392,1354429876,1771339417
 dimwishlist:item=2673925403&perks=,,1354429876,1771339417
-dimwishlist:item=2673925403&perks=1840239774,106909392,1354429876,2896038713
+dimwishlist:item=2673925403&perks=839105230,106909392,1354429876,2896038713
 dimwishlist:item=2673925403&perks=,,1354429876,2896038713
 
 // Iterative Loop
@@ -378,7 +383,7 @@ dimwishlist:item=3281285075&perks=,,2173046394,3201496230
 
 // Prolonged Engagement
 //notes: Decent SMG. Regular Subsistence reloads 17% mag, so not much is lost compared to a craftable alternative. One for All's huge damage bonus allows this to barely compete with Kinetic SMGs.
-dimwishlist:item=2349907931&perks=1840239774,1561002382,1820235745,4049631843
+dimwishlist:item=2349907931&perks=1840239774,1968497646,1820235745,4049631843
 dimwishlist:item=2349907931&perks=,,1820235745,4049631843
 
 // Regnant
@@ -479,12 +484,12 @@ dimwishlist:item=3257091167&perks=,,2077819806,4104185692
 
 // The Supremacy
 //notes: Good DPS but no ammo generating perk means low total damage. 
-dimwishlist:item=2884596447&perks=1840239774,106909392,3418782618,3078487919
+dimwishlist:item=2884596447&perks=839105230,106909392,3418782618,3078487919
 dimwishlist:item=2884596447&perks=,,3418782618,3078487919
 
 // The Title
 //notes: Workhorse Void SMG for your Void 3.0 builds, exceptional with Controlled Demolition on Titan, or Gyrfalcon on Hunter.
-dimwishlist:item=294129361&perks=1840239774,1561002382,1583705720,4049631843
+dimwishlist:item=294129361&perks=1840239774,1968497646,1583705720,4049631843
 dimwishlist:item=294129361&perks=,,1583705720,4049631843
 
 // Tripwire Canary
@@ -553,13 +558,13 @@ dimwishlist:item=3472875143&perks=,,201365942,4104185692
 
 // Word of Crota
 //notes: Nice void 180 - pairs great with a Gyrfalcon's or Contraverse build.
-dimwishlist:item=120706239&perks=1840239774,1561002382,3523296417,11612903
+dimwishlist:item=120706239&perks=1840239774,1968497646,3523296417,11612903
 dimwishlist:item=120706239&perks=,,3523296417,11612903
-dimwishlist:item=120706239&perks=1840239774,1561002382,3523296417,555281244
+dimwishlist:item=120706239&perks=1840239774,1968497646,3523296417,555281244
 dimwishlist:item=120706239&perks=,,3523296417,555281244
-dimwishlist:item=120706239&perks=1840239774,1561002382,2848615171,11612903
+dimwishlist:item=120706239&perks=1840239774,1968497646,2848615171,11612903
 dimwishlist:item=120706239&perks=,,2848615171,11612903
-dimwishlist:item=120706239&perks=1840239774,1561002382,2848615171,555281244
+dimwishlist:item=120706239&perks=1840239774,1968497646,2848615171,555281244
 dimwishlist:item=120706239&perks=,,2848615171,555281244
 
 // Zaouli's Bane
