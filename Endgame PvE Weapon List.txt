@@ -252,11 +252,15 @@ dimwishlist:item=1731355324&perks=1840239774,1140096971,1820235745,4049631843
 dimwishlist:item=1731355324&perks=,,1820235745,4049631843
 
 // IKELOS_SG_V1.0.3
-//notes: Another non-crit option. Cascade has higher DPS but considerably lower Total. Could also use Trench Barrel with Grapple Melee builds.
+//notes: Another non-crit option. Cascade has higher DPS but considerably lower Total. Could also use One-Two Punch with Strand Melee builds.
 dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,3708227201
 dimwishlist:item=1168625549&perks=,,4071163871,3708227201
-dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,3751912585
-dimwishlist:item=1168625549&perks=,,4071163871,3751912585
+dimwishlist:item=1168625549&perks=1300023272,106909392,4071163871,2679249093
+dimwishlist:item=1168625549&perks=,,4071163871,2679249093
+dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,3708227201
+dimwishlist:item=1168625549&perks=,,1631667848,3708227201
+dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,2679249093
+dimwishlist:item=1168625549&perks=,,1631667848,2679249093
 
 // IKELOS_SMG_v1.0.3
 //notes: Arc SMG for your Arc 3.0 builds. Threat Detector + Surrounded are great if you can live - excellent for farming spawn doors.
