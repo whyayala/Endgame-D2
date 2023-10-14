@@ -342,6 +342,13 @@ dimwishlist:item=2342054803&perks=,,1583705720,4049631843
 dimwishlist:item=2342054803&perks=839105230,3230963543,3108830275,4049631843
 dimwishlist:item=2342054803&perks=,,3108830275,4049631843
 
+// One Small Step
+//notes: Best Kinetic One-Two Punch shotgun. Highest reserves, great ammo and reload perks.
+dimwishlist:item=1016668089&perks=1300023272,106909392,1556840489,2679249093
+dimwishlist:item=1016668089&perks=,,1556840489,2679249093
+dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,2679249093
+dimwishlist:item=1016668089&perks=,,3300816228,2679249093
+
 // Out of Bounds
 //notes: Workhorse Arc SMG for your Arc 3.0 builds. Great alternative to the Surrounded IKELOS SMG with synergising perks. 
 dimwishlist:item=2988121501&perks=1840239774,1561002382,3523296417,2610012052
@@ -399,6 +406,8 @@ dimwishlist:item=548958835&perks=,,1820235745,4293542123
 //notes: Not the best DPS by any means, but servicable as an incredibly high total-damage weapon, with the added benefit of being able to clear adds too.
 dimwishlist:item=3103325054&perks=839105230,2420895100,1354429876,365154968
 dimwishlist:item=3103325054&perks=,,1354429876,365154968
+dimwishlist:item=3103325054&perks=839105230,2420895100,1354429876,4049631843
+dimwishlist:item=3103325054&perks=,,1354429876,4049631843
 
 // Riptide
 //notes: Excellent Champion counter weapon. Slow will instantly stun an Overload, Freeze will prevent a Barrier from shielding, Shatter will stun an Unstoppable.
@@ -467,10 +476,10 @@ dimwishlist:item=1866778462&perks=,,3300816228,3194351027
 
 // The Militia's Birthright (Adept)
 //notes: Excellent blinding Grenade Launcher. Great for Divinity + 2x Izanagi GM speedruns. Fun to use with Slidways weapons (Apex Predator).
-dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,4104185692
-dimwishlist:item=4162642204&perks=,,2039302152,4104185692
 dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,3300816228
 dimwishlist:item=4162642204&perks=,,2039302152,3300816228
+dimwishlist:item=4162642204&perks=3525010810,3032599245,2039302152,4104185692
+dimwishlist:item=4162642204&perks=,,2039302152,4104185692
 
 // The Other Half
 //notes: Needs no introduction. Used for movement and falling into holes in The Abyss in Crota's End.
@@ -516,10 +525,17 @@ dimwishlist:item=232928045&perks=,,201365942,2652708987
 
 // Unforgiven
 //notes: Good workhorse Void SMG - unfortunately Demolitionist doesn't grant energy when Volatile kills your target. Good if you don't have The Title, although slow to reload with a small mag.
-dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,2610012052
 dimwishlist:item=3000847393&perks=,,3523296417,2610012052
-dimwishlist:item=3000847393&perks=1840239774,1561002382,3523296417,11612903
+dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,11612903
 dimwishlist:item=3000847393&perks=,,3523296417,11612903
+
+// Until Its Return
+//notes: Another non-crit option. Cascade has higher DPS but considerably lower Total.
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201
+dimwishlist:item=2883484461&perks=,,3300816228,3708227201
+dimwishlist:item=2883484461&perks=1300023272,106909392,4071163871,3708227201
+dimwishlist:item=2883484461&perks=,,4071163871,3708227201
 
 // Unwavering Duty (Adept)
 //notes: Not as good as a One for All Machine Gun in my opinion, but still excellent. Great for extending Restoration and Radiant.
@@ -540,6 +556,8 @@ dimwishlist:item=690668916&perks=,,3592538738,4104185692
 //notes: Great choice for Shield Bash melee damage, although unfortunately nerfed. Still a great Kinetic slot Enhanced One-Two punch shotgun for all melee builds.
 dimwishlist:item=1679868061&perks=1300023272,106909392,3161816588,2679249093
 dimwishlist:item=1679868061&perks=,,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1300023272,106909392,1556840489,2679249093
+dimwishlist:item=1679868061&perks=,,1556840489,2679249093
 
 // Wilderflight
 //notes: Best pick for an energy GL paired with Izanagi for damage. Good a activating Bait and Switch, although fairly niche.
