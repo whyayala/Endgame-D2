@@ -330,23 +330,11 @@ dimwishlist:item=2323544076&perks=,,1556840489,776531651
 
 // Hung Jury SR4
 //notes: Decent Kinetic slot alternative to Perses-D, with OFA and the +10% Kinetic boost.
-dimwishlist:item=3832743906&perks=1840239774,3230963543,3891536761,4049631843
-dimwishlist:item=3832743906&perks=,,3891536761,4049631843
-dimwishlist:item=3832743906&perks=1840239774,3230963543,3891536761,3038247973
-dimwishlist:item=3832743906&perks=,,3891536761,3038247973
-dimwishlist:item=3832743906&perks=1840239774,3230963543,3700496672,4049631843
-dimwishlist:item=3832743906&perks=,,3700496672,4049631843
 dimwishlist:item=3832743906&perks=1840239774,3230963543,3700496672,3038247973
 dimwishlist:item=3832743906&perks=,,3700496672,3038247973
 
 // Hung Jury SR4 (Adept)
 //notes: Decent Kinetic slot alternative to Perses-D, with OFA and the +10% Kinetic boost.
-dimwishlist:item=2883684343&perks=1840239774,3230963543,3891536761,4049631843
-dimwishlist:item=2883684343&perks=,,3891536761,4049631843
-dimwishlist:item=2883684343&perks=1840239774,3230963543,3891536761,3038247973
-dimwishlist:item=2883684343&perks=,,3891536761,3038247973
-dimwishlist:item=2883684343&perks=1840239774,3230963543,3700496672,4049631843
-dimwishlist:item=2883684343&perks=,,3700496672,4049631843
 dimwishlist:item=2883684343&perks=1840239774,3230963543,3700496672,3038247973
 dimwishlist:item=2883684343&perks=,,3700496672,3038247973
 
@@ -609,7 +597,7 @@ dimwishlist:item=1447836603&perks=,,1583705720,4049631843
 dimwishlist:item=3886416794&perks=1840239774,3230963543,1820235745,4104185692
 dimwishlist:item=3886416794&perks=,,1820235745,4104185692
 
-// Submission
+// Submission (Adept)
 //notes: Nice feeling Kinetic SMG. Enh. sub isn't as good on SMGs, but the extra damage from Kinetic type weapons allows this Frenzy SMG to compete with Prolonged Engagement.
 dimwishlist:item=1941816543&perks=1840239774,3230963543,1820235745,4104185692
 dimwishlist:item=1941816543&perks=,,1820235745,4104185692
@@ -750,6 +738,10 @@ dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3708227201
 dimwishlist:item=2883484461&perks=,,3300816228,3708227201
 dimwishlist:item=2883484461&perks=1300023272,106909392,4071163871,3708227201
 dimwishlist:item=2883484461&perks=,,4071163871,3708227201
+dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3751912585
+dimwishlist:item=2883484461&perks=,,3300816228,3751912585
+dimwishlist:item=2883484461&perks=1300023272,106909392,4071163871,3751912585
+dimwishlist:item=2883484461&perks=,,4071163871,3751912585
 
 // Unwavering Duty (Adept)
 //notes: Not as good as a One for All Machine Gun in my opinion, but still excellent. Great for extending Restoration and Radiant.
@@ -823,3 +815,27 @@ dimwishlist:item=291092617&perks=1840239774,3230963543,3038247973,4049631843
 dimwishlist:item=291092617&perks=,,3038247973,4049631843
 dimwishlist:item=291092617&perks=1840239774,3230963543,3038247973,4293542123
 dimwishlist:item=291092617&perks=,,3038247973,4293542123
+
+// Elsie's Rifle (Brave)
+//notes: Decent offering for an ability heavy build. Not great, but serviceable.
+dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898
+dimwishlist:item=2372514509&perks=,,3418782618,2109543898
+
+// Elsie's Rifle (Foil)
+//notes: Decent offering for an ability heavy build. Not great, but serviceable.
+dimwishlist:item=3851176026&perks=839105230,1968497646,3418782618,2109543898
+dimwishlist:item=3851176026&perks=,,3418782618,2109543898
+
+// The Call
+//notes: Great choice for swapping to a double special loadout while keeping add. clear. Good ammo econ & damage output.
+dimwishlist:item=3947966653&perks=3525010810,106909392,1820235745,4049631843
+dimwishlist:item=3947966653&perks=,,1820235745,4049631843
+dimwishlist:item=3947966653&perks=3525010810,106909392,1556840489,4049631843
+dimwishlist:item=3947966653&perks=,,1556840489,4049631843
+
+// Indebted Kindness
+//notes: Great choice for swapping to a double special loadout while keeping add. clear. Good ammo econ & damage output.
+dimwishlist:item=3381450498&perks=3525010810,1380253176,1556840489,3993379141
+dimwishlist:item=3381450498&perks=,,1556840489,3993379141
+dimwishlist:item=3381450498&perks=3525010810,1380253176,1556840489,2173046394
+dimwishlist:item=3381450498&perks=,,1556840489,2173046394
